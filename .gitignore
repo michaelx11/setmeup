@@ -2,3 +2,5 @@
 !.gitignore
 !*.gpg
 !*.enc
+!linux_setup_scripts/
+!*.sh
